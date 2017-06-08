@@ -22,4 +22,10 @@
         android:layout_marginTop="20dp"
         android:text="测试提交一些新的代码" />
 
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="第三次测试提交一些新的代码" />
+
 </LinearLayout>
